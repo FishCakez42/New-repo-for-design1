@@ -1,0 +1,11 @@
+Name: Stol_Fanera
+Version: 2013
+Preview: Yes
+Units: Millimeters
+Dimension: 700.0 x 700.0 x 765.0
+Polys: 652
+XForm: Yes
+Box Trick: Yes
+Model Parts: 2
+Render: Default Scanline
+Formats: 3Ds Max 2013, OBJ, FBX
